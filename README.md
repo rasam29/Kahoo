@@ -1,2 +1,2 @@
 # Kahoo
-an Alternative to Mosby for conducting MVI projects
+A simpler version of "Mosby" for conducting MVI projects.
